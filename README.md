@@ -1,10 +1,10 @@
 ## Oi, prazer te ver aqui!👋
 ## Hi, nice to see you! 👋
-##
+## 你好, 认识你们很高兴! 👋
 - 🔭 Estou me graduando em: Sistemas de informação
 - 🌱 Estou estudando mais sobre: Angular, Ux/Ui, machine learning
 - 😄 Pronomes: ela/dela
-- 🌐 Linguas que estudo: Inglês, Mandarim e espanhol
+- 🌐 Linguas que estudo: Inglês e Mandarim
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Javellars&show_icons=true&theme=radical" />
