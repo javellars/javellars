@@ -2,7 +2,7 @@
 ## Hi, nice to see you! 👋
 ## 你好, 认识你们很高兴! 👋
 - 🔭 Estou me graduando em: Sistemas de informação
-- 🌱 Estou estudando mais sobre: Angular, Ux/Ui, machine learning
+- 🌱 Estou estudando mais sobre: Desenvolvimento mobile, Ux/Ui, machine learning
 - 😄 Pronomes: ela/dela
 - 🌐 Linguas que estudo: Inglês e Mandarim
 
